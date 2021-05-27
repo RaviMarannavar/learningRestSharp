@@ -18,13 +18,13 @@ namespace LearningBasics_202126.Basics
         public BankAccount(string accountHolder, int initialDeposit)
         {
             this.accountHolder = accountHolder;
-            if (initialDeposit > 0)
+            if (initialDeposit > 200)
             { 
                 this.accountBalance += initialDeposit; 
             }
             else 
             { 
-                throw new ArgumentOutOfRangeException("initial Deposit can not be smaller then 0"); 
+                throw new ArgumentOutOfRangeException("initial Deposit can not be smaller then 200"); 
             }
         }
         
