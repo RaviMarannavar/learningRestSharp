@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrdYZp143tPAP2Ij0eHckIIROWKF4C60LE1Ck9vpS1e95R1iaoH//qHOEAYXUS5Hh9akSJJgkjOyBLpyUkcW/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SP7T\\source\\repos\\LearningBasics_202126\\LearningBasics_202126\\LearningBasics_202126.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SP7T\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SP7T\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\bin\Debug\netcoreapp3.1\LearningBasics_202126.exe
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\bin\Debug\netcoreapp3.1\LearningBasics_202126.deps.json
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\bin\Debug\netcoreapp3.1\LearningBasics_202126.runtimeconfig.json
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\bin\Debug\netcoreapp3.1\LearningBasics_202126.runtimeconfig.dev.json
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\bin\Debug\netcoreapp3.1\LearningBasics_202126.dll
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\bin\Debug\netcoreapp3.1\LearningBasics_202126.pdb
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\obj\Debug\netcoreapp3.1\LearningBasics_202126.csprojAssemblyReference.cache
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\obj\Debug\netcoreapp3.1\LearningBasics_202126.AssemblyInfoInputs.cache
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\obj\Debug\netcoreapp3.1\LearningBasics_202126.AssemblyInfo.cs
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\obj\Debug\netcoreapp3.1\LearningBasics_202126.csproj.CoreCompileInputs.cache
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\obj\Debug\netcoreapp3.1\LearningBasics_202126.dll
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\obj\Debug\netcoreapp3.1\LearningBasics_202126.pdb
+C:\Users\SP7T\source\repos\LearningBasics_202126\LearningBasics_202126\obj\Debug\netcoreapp3.1\LearningBasics_202126.genruntimeconfig.cache
